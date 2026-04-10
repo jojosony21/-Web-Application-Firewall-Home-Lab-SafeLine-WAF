@@ -157,11 +157,17 @@ safeline-waf-homelab/
 
 ## 📸 Screenshot Proof Guide
 
+###SafeLine dashboard
 ![SafeLine dashboard](screenshots/SafeLine_dash.png)
+###SQLi block page on Kali
 ![SQLi block page on Kali](screenshots/sqli_block_kali.png)
+###WAF SQLi log entry
 ![WAF SQLi log entry](screenshots/Sqli_log.png)
+###Custom deny rule config
 ![Custom deny rule config](screenshots/custom_rule.png)
+###HTTP flood blocked in logs
 ![HTTP flood blocked in logs](/screenshots/Http_flood.png)
+###Auth gateway intercepting Kali before DVWA loads
 ![Auth gateway intercepting Kali before DVWA loads](screenshots/auth_gateway.png)
 
 ---
