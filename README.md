@@ -157,8 +157,10 @@ safeline-waf-homelab/
 
 ## 📸 Screenshot Proof Guide
 
+---
 ###SafeLine dashboard
 ![SafeLine dashboard](screenshots/SafeLine_dash.png)
+---
 ###SQLi block page on Kali
 ![SQLi block page on Kali](screenshots/sqli_block_kali.png)
 ###WAF SQLi log entry
