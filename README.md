@@ -157,7 +157,7 @@ safeline-waf-homelab/
 
 ## 📸 Screenshot Proof Guide
 
-![SafeLine dashboard](/screenshots/Safeline_dash.png)
+![SafeLine dashboard](screenshots/Safeline_dash.png)
 ![SQLi block page on Kali](screenshots/sqli_block_kali.png)
 ![WAF SQLi log entry](screenshots/Sqli_log.png)
 ![Custom deny rule config](screenshots/custom_rule.png)
